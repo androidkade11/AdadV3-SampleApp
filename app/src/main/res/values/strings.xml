@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="sample_title">This is a sample for using Adad client version 3.3</string>
+    <string name="show_interstitial_ad">Show Interstitial Ad</string>
+    <string name="prepare_interstitial_ad">Prepare Interstitial Ad</string>
+    <string name="show_video_ad">Show Video Ad</string>
+    <string name="load_video_ad">Load Video Ad</string>
+</resources>
